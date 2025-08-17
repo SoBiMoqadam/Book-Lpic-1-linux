@@ -8,14 +8,6 @@
 A complete study companion for mastering Linux fundamentals and passing the LPIC-1 exam with confidence 🚀
 </p>
 
-<!-- Badge Row -->
-<p>
-  <img src="https://img.shields.io/github/stars/SoBiMoqadam/Book-Lpic-1-linux?style=for-the-badge&logo=github&color=00FFFF" />
-  <img src="https://img.shields.io/github/forks/SoBiMoqadam/Book-Lpic-1-linux?style=for-the-badge&logo=git&color=blueviolet" />
-  <img src="https://img.shields.io/github/issues/SoBiMoqadam/Book-Lpic-1-linux?style=for-the-badge&color=ff0055" />
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=open-source-initiative" />
-</p>
-
 </div>
 
 ---
@@ -43,15 +35,26 @@ To read or download the full version PDF:
 
 <div align="center">
   
-<a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/blob/main/LPIC-1-Linux.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/📖%20View%20on%20GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="View on GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf">
+<a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf" target="_blank">
   <img src="https://img.shields.io/badge/⬇️%20Direct%20Download-FF1493?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000" alt="Download PDF"/>
 </a>
 
 </div>
+
+</div>
+
+---
+
+## 📖 View PDF Online
+
+<div align="center">
+
+<iframe 
+    src="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf" 
+    width="80%" 
+    height="600px" 
+    style="border:1px solid #ccc;">
+</iframe>
 
 </div>
 
