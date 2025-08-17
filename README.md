@@ -25,37 +25,48 @@ It validates your ability to perform maintenance tasks on the command line, inst
 
 ---
 
-## 📥 Download PDF
-
 <div align="center">
 
-<a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/⬇️%20Direct%20Download-FF1493?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000" alt="Download PDF"/>
-</a>
+<h1 style="font-family:monospace; color:#00FFFF; font-size:42px;">
+🐧 LPIC-1 Linux Study Guide
+</h1>
+
+<p style="font-family:monospace; font-size:18px; color:#9be7ff;">
+A complete study companion for mastering Linux fundamentals and passing the LPIC-1 exam with confidence 🚀
+</p>
 
 </div>
 
 ---
 
-## 📖 View PDF Online
+## PDF Access
 
-<div align="center">
+<div align="center" style="margin:20px 0; display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
+<!-- View Online Button -->
 <button onclick="document.getElementById('pdfViewer').style.display='block';" 
-        style="padding: 10px 20px; font-size:16px; background-color:#1E90FF; color:white; border:none; border-radius:5px; cursor:pointer;">
+        style="padding:10px 20px; font-size:16px; background-color:#1E90FF; color:white; border:none; border-radius:5px; cursor:pointer;">
     📖 View Online
 </button>
 
-<div id="pdfViewer" style="display:none; margin-top:20px;">
+<!-- Download Button -->
+<a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf" target="_blank"
+   style="padding:10px 20px; font-size:16px; background-color:#FF1493; color:white; text-decoration:none; border-radius:5px;">
+    ⬇️ Download PDF
+</a>
+
+</div>
+
+<!-- PDF Viewer -->
+<div id="pdfViewer" style="display:none; text-align:center; margin-top:20px;">
     <iframe 
-        src="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf" 
+        src="https://docs.google.com/gview?url=https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf&embedded=true" 
         width="80%" 
         height="600px" 
         style="border:1px solid #ccc;">
     </iframe>
 </div>
 
-</div>
 
 ---
 
