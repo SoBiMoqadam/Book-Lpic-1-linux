@@ -45,6 +45,14 @@ You can continue writing explanations or notes here outside the code block.
 
 ---
 
+## Download File
+
+You can download the `main.py` file directly:
+
+[Download main.py](https://raw.githubusercontent.com/SoBiMoqadam/Python-Calendar/main/main.py)
+
+---
+
 ## 🛠 Installation / Setup
 
 Clone this repository and run the script using terminal:
