@@ -2,12 +2,12 @@
 
 <div align="center">
 
-# LPIC-1 Linux Study Guide  
+#  LPIC-1 Linux Study Guide  
 
 ![GitHub stars](https://img.shields.io/github/stars/SoBiMoqadam/Book-Lpic-1-linux?style=for-the-badge&logo=github&color=yellow)  
 ![GitHub forks](https://img.shields.io/github/forks/SoBiMoqadam/Book-Lpic-1-linux?style=for-the-badge&logo=git&color=orange)  
 ![GitHub issues](https://img.shields.io/github/issues/SoBiMoqadam/Book-Lpic-1-linux?style=for-the-badge&color=red)  
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)  
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=open-source-initiative)  
 
 *A complete study companion for mastering Linux fundamentals and passing the LPIC-1 exam with confidence!* 🚀  
 
@@ -43,8 +43,13 @@ It validates your ability to perform maintenance tasks on the command line, inst
 
 To read or download the full version PDF:  
 
-[![View PDF](https://img.shields.io/badge/📖%20View%20on%20GitHub-blue?style=for-the-badge)](https://github.com/SoBiMoqadam/Book-Lpic-1-linux/blob/main/LPIC-1-Linux.pdf)  
-[![Download PDF](https://img.shields.io/badge/⬇️%20Direct%20Download-green?style=for-the-badge)](https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf)
+<a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/blob/main/LPIC-1-Linux.pdf">
+  <img src="https://img.shields.io/badge/📖%20View%20on%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf">
+  <img src="https://img.shields.io/badge/⬇️%20Direct%20Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
 
 </div>
 
