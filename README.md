@@ -27,19 +27,45 @@ It validates your ability to perform maintenance tasks on the command line, inst
 
 ## PDF Access
 
-<div align="center" style="margin:20px 0; display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+<div align="center" style="margin:30px 0; display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
   <!-- View Online Button -->
-  <a href="https://docs.google.com/gview?url=https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf&embedded=true" 
+  <a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf" 
      target="_blank"
-     style="padding:10px 20px; font-size:16px; background-color:#1E90FF; color:white; text-decoration:none; border-radius:5px;">
+     style="
+        padding:12px 30px;
+        font-size:16px;
+        font-weight:bold;
+        color:white;
+        text-decoration:none;
+        border-radius:8px;
+        background: linear-gradient(135deg, #1E90FF, #00CED1);
+        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        transition: transform 0.2s, box-shadow 0.2s;
+     "
+     onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.4)';"
+     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.3)';"
+  >
       📖 View Online
   </a>
 
   <!-- Download Button -->
   <a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf" 
      target="_blank"
-     style="padding:10px 20px; font-size:16px; background-color:#FF1493; color:white; text-decoration:none; border-radius:5px;">
+     style="
+        padding:12px 30px;
+        font-size:16px;
+        font-weight:bold;
+        color:white;
+        text-decoration:none;
+        border-radius:8px;
+        background: linear-gradient(135deg, #FF1493, #FF69B4);
+        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        transition: transform 0.2s, box-shadow 0.2s;
+     "
+     onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.4)';"
+     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.3)';"
+  >
       ⬇️ Download PDF
   </a>
 
