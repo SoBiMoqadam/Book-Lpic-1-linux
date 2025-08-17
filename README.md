@@ -1,63 +1,33 @@
-# 📅 Python Calendar
+# 🐧 LPIC-1 Linux Study Guide
 
-<div align="center">
-<h1 style="color:#00ffff; font-family:monospace;">🗓 Python Calendar</h1>
-<p style="font-family:monospace; font-size:16px; color:#9be7ff;">
-A smart calendar to check dates, switch calendar types, and toggle themes effortlessly 🚀
-</p>
-</div>
+A complete study companion for mastering Linux fundamentals and passing the LPIC-1 exam with confidence 🚀
 
 ---
 
-## ✨ Features
+## About LPIC-1
+The **LPIC-1** is the first certification in the Linux Professional Institute (LPI) program.  
+It validates your ability to perform maintenance tasks on the command line, install & configure a computer running Linux, and configure basic networking.
 
-- ✅ **Today's Date**: Quickly find the date of the day & month  
-- 🔄 **Switch Calendar Type**: Toggle between Solar (Persian) & Gregorian  
-- 🌗 **Themes**: Light and Dark background options  
-- 🎨 **Clean Interface** with smooth interactions  
-
----
-
-## 💻 Sample Code
-
-<div style="background:#1e1e2f; padding:15px; border-radius:10px; color:#fff; font-family:monospace; line-height:1.5;">
-<pre>
-import tkinter as tk
-from persiantools.jdatetime import JalaliDate
-from datetime import date, datetime
-import calendar
-
-# Sample: Display today's date
-current_date = JalaliDate.today()
-print("Today's date:", current_date)
-
-# Switch between calendar types
-calendar_type = "jalali"  # or "gregorian"
-
-# Toggle themes
-theme = "light"  # or "dark"
-</pre>
-</div>
-
-<p style="margin-top:10px; color:#333; font-family:monospace;">
-You can continue writing explanations or notes here outside the code block.
-</p>
+### What You’ll Learn:
+- Command line usage
+- System architecture
+- Linux installation & package management
+- Shell scripting & basic networking
+- Security basics
 
 ---
 
-## Download File
+## 📄 PDF Access
 
-You can download the `main.py` file directly:
-
-[Download main.py](https://raw.githubusercontent.com/SoBiMoqadam/Python-Calendar/main/main.py)
+[![View Online](https://img.shields.io/badge/View-Online-blue?style=for-the-badge&logo=google)](https://docs.google.com/gview?url=https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf&embedded=true)
+[![Download PDF](https://img.shields.io/badge/Download-PDF-pink?style=for-the-badge&logo=adobe-acrobat)](https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf)
 
 ---
 
 ## 🛠 Installation / Setup
 
-Clone this repository and run the script using terminal:
+Clone this repository and start practicing:
 
 ```bash
-git clone https://github.com/SoBiMoqadam/Python-Calendar.git
-cd Python-Calendar
-python main.py
+git clone https://github.com/SoBiMoqadam/Book-Lpic-1-linux.git
+cd Book-Lpic-1-linux
