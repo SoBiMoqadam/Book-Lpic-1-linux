@@ -27,7 +27,7 @@ It validates your ability to perform maintenance tasks on the command line, inst
 
 ## PDF Access
 
-<div align="center" style="margin:30px 0; display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin:20px 0;">
 
   <!-- View Online Button -->
   <a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf" 
