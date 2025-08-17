@@ -37,5 +37,5 @@ You don't need special software—just a Linux machine or a virtual environment 
 Clone this repository and start practicing:
 
 ```bash
-git clone https://github.com/username/LPIC-1-Linux.git
+git clone https://github.com/SoBiMoqadam/LPIC-1-Linux.git
 cd LPIC-1-Linux
