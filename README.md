@@ -39,13 +39,19 @@ It validates your ability to perform maintenance tasks on the command line, inst
 
 To read or download the full version PDF:  
 
-<a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/blob/main/LPIC-1-Linux.pdf">
-  <img src="https://img.shields.io/badge/📖%20View%20on%20GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=white" />
+## 📥 Download PDF
+
+<div align="center">
+  
+<a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/blob/main/LPIC-1-Linux.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📖%20View%20on%20GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="View on GitHub"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf">
-  <img src="https://img.shields.io/badge/⬇️%20Direct%20Download-ff0055?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <img src="https://img.shields.io/badge/⬇️%20Direct%20Download-FF1493?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000" alt="Download PDF"/>
 </a>
+
+</div>
 
 </div>
 
