@@ -19,8 +19,8 @@ It validates your ability to perform maintenance tasks on the command line, inst
 
 ## 📄 PDF Access
 
-- [📖 View Online](https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf)
-- [⬇️ Download PDF](https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf)
+[![View Online](https://img.shields.io/badge/View-Online-blue?style=for-the-badge&logo=github)](https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf)
+[![Download PDF](https://img.shields.io/badge/Download-PDF-pink?style=for-the-badge&logo=adobe-acrobat)](https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf)
 
 ---
 
