@@ -25,21 +25,13 @@ It validates your ability to perform maintenance tasks on the command line, inst
 
 ---
 
-## Download PDF
-
-<div align="center">
-
-To read or download the full version PDF:  
-
 ## 📥 Download PDF
 
 <div align="center">
-  
+
 <a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf" target="_blank">
   <img src="https://img.shields.io/badge/⬇️%20Direct%20Download-FF1493?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000" alt="Download PDF"/>
 </a>
-
-</div>
 
 </div>
 
@@ -49,12 +41,19 @@ To read or download the full version PDF:
 
 <div align="center">
 
-<iframe 
-    src="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf" 
-    width="80%" 
-    height="600px" 
-    style="border:1px solid #ccc;">
-</iframe>
+<button onclick="document.getElementById('pdfViewer').style.display='block';" 
+        style="padding: 10px 20px; font-size:16px; background-color:#1E90FF; color:white; border:none; border-radius:5px; cursor:pointer;">
+    📖 View Online
+</button>
+
+<div id="pdfViewer" style="display:none; margin-top:20px;">
+    <iframe 
+        src="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf" 
+        width="80%" 
+        height="600px" 
+        style="border:1px solid #ccc;">
+    </iframe>
+</div>
 
 </div>
 
