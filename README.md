@@ -19,7 +19,7 @@ It validates your ability to perform maintenance tasks on the command line, inst
 
 ## 📄 PDF Access
 
-[![View Online](https://img.shields.io/badge/View-Online-blue?style=for-the-badge&logo=github)](https://github.com/SoBiMoqadam/Book-Lpic-1-linux/blob/main/LPIC-1-Linux.pdf)
+[![View Online](https://img.shields.io/badge/View-Online-blue?style=for-the-badge&logo=google)](https://docs.google.com/gview?url=https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf&embedded=true)
 [![Download PDF](https://img.shields.io/badge/Download-PDF-pink?style=for-the-badge&logo=adobe-acrobat)](https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf)
 
 ---
