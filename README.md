@@ -1,15 +1,20 @@
-# 🐧 Book-Lpic-1-Linux
-
 <div align="center">
 
-#  LPIC-1 Linux Study Guide  
+<h1 style="font-family:monospace; color:#00FFFF; font-size:42px;">
+🐧 LPIC-1 Linux Study Guide
+</h1>
 
-![GitHub stars](https://img.shields.io/github/stars/SoBiMoqadam/Book-Lpic-1-linux?style=for-the-badge&logo=github&color=yellow)  
-![GitHub forks](https://img.shields.io/github/forks/SoBiMoqadam/Book-Lpic-1-linux?style=for-the-badge&logo=git&color=orange)  
-![GitHub issues](https://img.shields.io/github/issues/SoBiMoqadam/Book-Lpic-1-linux?style=for-the-badge&color=red)  
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=open-source-initiative)  
+<p style="font-family:monospace; font-size:18px; color:#9be7ff;">
+A complete study companion for mastering Linux fundamentals and passing the LPIC-1 exam with confidence 🚀
+</p>
 
-*A complete study companion for mastering Linux fundamentals and passing the LPIC-1 exam with confidence!* 🚀  
+<!-- Badge Row -->
+<p>
+  <img src="https://img.shields.io/github/stars/SoBiMoqadam/Book-Lpic-1-linux?style=for-the-badge&logo=github&color=00FFFF" />
+  <img src="https://img.shields.io/github/forks/SoBiMoqadam/Book-Lpic-1-linux?style=for-the-badge&logo=git&color=blueviolet" />
+  <img src="https://img.shields.io/github/issues/SoBiMoqadam/Book-Lpic-1-linux?style=for-the-badge&color=ff0055" />
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=open-source-initiative" />
+</p>
 
 </div>
 
@@ -20,20 +25,11 @@ The **LPIC-1** is the first certification in the Linux Professional Institute (L
 It validates your ability to perform maintenance tasks on the command line, install & configure a computer running Linux, and configure basic networking.
 
 ### What You’ll Learn:
--  Command line usage  
--  System architecture  
--  Linux installation & package management  
--  Shell scripting & basic networking  
--  Security basics  
-
----
-
-## Features of This Guide
-✔️ Concise explanations for all LPIC-1 objectives  
-✔️ Practical examples and commands  
-✔️ Exam tips and tricks  
-✔️ Cheat sheets for quick revision  
-✔️ Hands-on exercises  
+- Command line usage  
+- System architecture  
+- Linux installation & package management  
+- Shell scripting & basic networking  
+- Security basics  
 
 ---
 
@@ -44,20 +40,18 @@ It validates your ability to perform maintenance tasks on the command line, inst
 To read or download the full version PDF:  
 
 <a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/blob/main/LPIC-1-Linux.pdf">
-  <img src="https://img.shields.io/badge/📖%20View%20on%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📖%20View%20on%20GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/SoBiMoqadam/Book-Lpic-1-linux/raw/main/LPIC-1-Linux.pdf">
-  <img src="https://img.shields.io/badge/⬇️%20Direct%20Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <img src="https://img.shields.io/badge/⬇️%20Direct%20Download-ff0055?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## Installation / Setup
-You don’t need any special software—just a Linux machine or a virtual environment like **VirtualBox**.
-
+## 🛠 Installation / Setup
 Clone this repository and start practicing:
 
 ```bash
